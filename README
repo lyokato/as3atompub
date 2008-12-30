@@ -1,0 +1,17 @@
+Atom Syndication Format parser/builder is mostly completed.
+(org.coderepos.xml.atom.*)
+
+Client doesn't work well yet.
+(org.coderepos.atompub.*)
+
+DEPENDENCIES:
+- as3corelib (http://code.google.com/p/as3corelib/)
+- as3crypto (http://crypto.hurlant.com/)
+- as3httpclientlib (http://code.google.com/p/as3httpclientlib/)
+- as3oauth (http://code.google.com/p/as3oauth)
+- as3flexunitlib (http://code.google.com/p/as3flexunitlib/)
+
+TODO:
+- documentation
+- client test/debug
+
